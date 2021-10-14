@@ -9,7 +9,7 @@ def fact(n):
     else:
         return n * fact(n-1)
 
-print(fact(55))
+print(fact(955))
 
 # end time
 end = time.time()
